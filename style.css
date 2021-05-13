@@ -267,6 +267,7 @@ body {
 
   .card__item-text {
     position: relative;
+    margin-right: 9px;
   }
 
   .card__item-text::before {
@@ -281,10 +282,6 @@ body {
 
   .card__item--content::before {
     display: none;
-  }
-
-  .card__time-list {
-    margin-left: 9px;
   }
 
   .card__price {
